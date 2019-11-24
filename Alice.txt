@@ -5,3 +5,4 @@ Added some more text.
 A change made from GitHub.
 Making a change to see what happen when I try to pull with changes.
 Trying this again from GitHub.
+Let's introduce a conflict at the local repository level now.
